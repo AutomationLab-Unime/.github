@@ -1,35 +1,24 @@
-<h1 align="left">AutomationLab-Unime</h1>
+# AutomationLab-Unime
 
-###
+Welcome to the AutomationLab-Unime repository! 
+This organisation hosts various projects related to robotics, automation, and simulations developed by the Automation Lab at the University of Messina.
 
-<h2 align="left">Robotic Arm</h2>
+## Projects
 
-###
+### Robotic Arm
+1. [Fischertechnik 3D Robot](https://github.com/AutomationLab-Unime/fischertechnik-3D-robot)
+2. [IAAR Project - Catalfamo & Arico](https://github.com/AutomationLab-Unime/IAAR-Project-Catalfamo_Arico)
+3. [Smart Greenhouse](https://github.com/AutomationLab-Unime/smart-greenhouse)
 
-<p align="left">[1] (https://github.com/AutomationLab-Unime/fischertechnik-3D-robot)<br>[2] (https://github.com/AutomationLab-Unime/IAAR-Project-Catalfamo_Arico)<br>[3] (https://github.com/AutomationLab-Unime/smart-greenhouse)</p>
+### Coppelia Sim
+1. [IAAR Project - Orlando, Arena & Corriera](https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)
+2. [IAAR - Maio](https://github.com/AutomationLab-Unime/IAAR-Maio)
 
-###
+### PLC Simulations
+1. [IAAR Project - Orlando, Arena & Corriera](https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)
+2. [IAAR - Maio](https://github.com/AutomationLab-Unime/IAAR-Maio)
+3. [Smart Greenhouse](https://github.com/AutomationLab-Unime/smart-greenhouse)
 
-<h2 align="left">Coppelia Sim</h2>
-
-###
-
-<p align="left">[1] (https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)<br>[2] (https://github.com/AutomationLab-Unime/IAAR-Maio)</p>
-
-###
-
-<h2 align="left">PLC Simulations</h2>
-
-###
-
-<p align="left">[1] (https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)<br>[2] (https://github.com/AutomationLab-Unime/IAAR-Maio)<br>[3] (https://github.com/AutomationLab-Unime/smart-greenhouse)</p>
-
-###
-
-<h2 align="left">ROS2 & Gazebo</h2>
-
-###
-
-<p align="left">[1] (https://github.com/AutomationLab-Unime/Rover_Simulation)<br>[2] (https://github.com/AutomationLab-Unime/Rover_Simulation_2)</p>
-
-###
+### ROS2 & Gazebo
+1. [Rover Simulation](https://github.com/AutomationLab-Unime/Rover_Simulation)
+2. [Rover Simulation 2](https://github.com/AutomationLab-Unime/Rover_Simulation_2)
