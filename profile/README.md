@@ -13,6 +13,7 @@ This organisation hosts various projects related to robotics, automation, and si
 ### Coppelia Sim
 1. [IAAR Project - Orlando, Arena & Corriera](https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)
 2. [IAAR - Maio](https://github.com/AutomationLab-Unime/IAAR-Maio)
+3. [Self Drive Car](https://github.com/AutomationLab-Unime/Self-drive-car)
 
 ### PLC Simulations
 1. [IAAR Project - Orlando, Arena & Corriera](https://github.com/AutomationLab-Unime/IAAR-Project-Orlando_Arena_Corriera)
